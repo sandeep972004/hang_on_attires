@@ -56,7 +56,7 @@ export default function Home() {
               <span className="icon-wrap"><Icon><WhatsApp /></Icon></span>
               <span className="font-medium">WhatsApp</span>
             </a>
-            <a href="https://www.google.com/maps/search/?api=1&query=Hang-On+Attires" target="_blank" rel="noopener noreferrer" className="action-btn">
+            <a href="https://maps.app.goo.gl/xemk1M1fTwwt8M8EA?g_st=ac" target="_blank" rel="noopener noreferrer" className="action-btn">
               <span className="icon-wrap"><Icon><Location /></Icon></span>
               <span className="font-medium">Location</span>
             </a>
